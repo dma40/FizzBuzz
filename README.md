@@ -461,7 +461,7 @@ def multiples(n: int = 1000, a: int = 3, b: int = 5) -> int:
 Once you complete these steps, you can copy the `MultiplesDefaultTest.java` file into the `test/lab1` directory
 and run the tests in it to check your work — debugging as needed.
 
-- [ ] Use git to push your updated `Multiples.java` file to GitHub and run the self tests again on MarkUs.
+- [X] Use git to push your updated `Multiples.java` file to GitHub and run the self tests again on MarkUs.
 
 > Since MarkUs already has your GitHub URL, you don't need to "resubmit" that; you can just rerun the self
 > tests on MarkUs, and it will clone a copy of your most recent code from GitHub. Neat!
@@ -538,7 +538,7 @@ a helper method called `reduce`. Then generalize that helper to take in `n` as a
 Once you complete these steps, you can copy the `ReduceTest.java` file into the `test/lab1` directory
 and run the tests — debugging as needed.
 
-- [] Finally, `add`, `commit`, and `push` your `Reduce.java` — then rerun the self tests on MarkUs.
+- [X] Finally, `add`, `commit`, and `push` your `Reduce.java` — then rerun the self tests on MarkUs.
 
 ## Further practice
 
