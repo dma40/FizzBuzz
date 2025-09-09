@@ -12,7 +12,7 @@ public class Multiples {
     }
 
     public static int multiples() {
-        return 999 / 3 + 999 / 5 - 999 / 15;
+        return multiples(1000, 3, 5);
     }
 
     private static int gcd(int a, int b) {
