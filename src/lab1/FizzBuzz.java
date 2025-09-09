@@ -14,7 +14,7 @@ class FizzBuzz {
         }
     }
 
-    private static void fizzbuzz(int i) {
+    public static void fizzbuzz(int i) {
         boolean isDivisibleBy3 = (i % 3 == 0);
         boolean isDivisibleBy5 = (i % 5 == 0);
         boolean isDivisibleBy15 = (i % 15 == 0);
